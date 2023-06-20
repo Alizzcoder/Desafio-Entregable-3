@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Taza",
+      "description": "Taza gres",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "11",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Plato",
+      "description": "Plato gres",
+      "price": 1000,
+      "thumbnail": "Sin imagen",
+      "code": "12",
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "title": "Jarron",
+      "description": "Jarron gres",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "13",
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "title": "Fuente",
+      "description": "Fuente gres",
+      "price": 2000,
+      "thumbnail": "Sin imagen",
+      "code": "14",
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "title": "Ensaladera",
+      "description": "Ensaladera gres",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "15",
+      "stock": 5
+    }
+]
